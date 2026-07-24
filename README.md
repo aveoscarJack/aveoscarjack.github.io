@@ -1,224 +1,294 @@
-# 🚀 Ave Oscar Jack - Portfolio Website
+# 🌐 Ave Oscar Jack - Developer Portfolio
 
-A modern, responsive personal portfolio website showcasing my skills, education, certifications, projects, and professional experience as an aspiring Software Developer, Data Analyst, and ICT Professional.
+![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 
-## 🌐 Live Demo
+## 📖 Overview
 
-🔗 https://aveoscarjackworkflo-ai-assist.lovable.app
+Welcome to my personal portfolio website!
 
----
+This portfolio showcases my skills, education, certifications, and software development projects. It serves as a central place where recruiters, employers, and collaborators can learn more about me, explore my work, and get in touch.
 
-## 📖 About
+## 🚀 Live Website
 
-This portfolio was designed to present my technical abilities, academic journey, certifications, and projects in a clean, interactive, and professional format.
-
-The website includes:
-
-- 👨‍💻 About Me
-- 🎓 Education
-- 💼 Professional Experience
-- 🛠 Technical Skills
-- 📜 Certifications
-- 📂 Featured Projects
-- 📞 Contact Information
+**Portfolio:**  
+👉 **https://ave-oscar-jack-h8svm0l78-ave-oscar-jack.vercel.app/**
 
 ---
 
-## ✨ Features
+# 👨‍💻 About Me
 
-- Responsive design for desktop, tablet, and mobile
-- Modern UI with smooth animations
-- Interactive navigation
-- Animated skill progress bars
-- Particle background animation
-- Timeline-based education section
-- Professional project showcase
-- Contact section with LinkedIn, GitHub, phone and email
-- Back-to-top button
-- Mobile-friendly navigation menu
+Hi, I'm **Ave Oscar Jack**, an aspiring Software Developer and ICT student from Cape Town, South Africa.
+
+I'm passionate about:
+
+- Web Development
+- Frontend Development
+- UI/UX Design
+- Artificial Intelligence
+- Software Engineering
+- Problem Solving
+
+I enjoy building responsive, user-friendly applications that solve real-world problems while continuously learning new technologies.
 
 ---
 
-## 🛠 Technologies Used
+# ✨ Features
+
+- Modern responsive design
+- Professional landing page
+- About Me section
+- Skills showcase
+- Featured projects
+- Education & Certifications
+- Downloadable CV
+- Contact section
+- GitHub integration
+- LinkedIn integration
+- Mobile-friendly layout
+- Smooth navigation
+
+---
+
+# 🛠 Technologies Used
+
+### Frontend
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
-- Google Fonts
-- Responsive Web Design
-- CSS Animations
-- Intersection Observer API
-- Canvas API
+- JavaScript
+- React
+- TypeScript
+
+### Design
+
+- Figma
+- Canva
+
+### Backend
+
+- Node.js
+- PHP
+- MySQL
+
+### Other Tools
+
+- Git
+- GitHub
+- Vercel
+- VS Code
 
 ---
 
-## 📂 Project Structure
+# 💼 Featured Projects
 
-```
-Portfolio/
-│
-├── index.html
-├── README.md
-└── assets/
-    ├── images/
-    ├── icons/
-    └── documents/
-```
+## 🚖 UniRouteX
 
----
+A university shuttle tracking and scheduling platform designed to help students keep track of transport schedules in real time.
 
-## 🚀 Getting Started
+### Features
 
-### Clone the repository
-
-```bash
-git clone https://github.com/aveoscarJack/portfolio.git
-```
-
-### Navigate into the project
-
-```bash
-cd portfolio
-```
-
-### Open the website
-
-Simply open
-
-```
-index.html
-```
-
-in your browser.
-
-No installation or dependencies are required.
+- Route schedules
+- Driver information
+- Responsive design
+- Student-friendly interface
 
 ---
 
-## 📸 Sections
+## 🤖 WorkFlo AI Assist
 
-### 🏠 Home
+AI-powered workplace productivity assistant designed to automate repetitive office tasks.
 
-Professional introduction with animated hero section.
+Features include:
 
-### 👤 About
+- AI Email Generator
+- Meeting Notes Summarizer
+- Action Item Generator
+- Prompt Library
+- Workflow Assistant
 
-Information about my background and career goals.
+---
 
-### 🎓 Education
+## 🏋️ FitTrack
 
-- Diploma in ICT (Current)
+A fitness tracking web application that helps users monitor workouts and progress.
+
+---
+
+## 💳 Capitec Banking App Redesign
+
+A UI/UX redesign focusing on improving the Reverse Payment experience.
+
+Designed in Figma using modern accessibility and usability principles.
+
+---
+
+# 🎓 Education
+
+**Cape Peninsula University of Technology (CPUT)**
+
+- Diploma in ICT (Multimedia Applications)
 - Higher Certificate in ICT (Completed)
-- National Senior Certificate
 
-### 💼 Experience
+---
 
-Professional work experience including:
+# 📜 Certifications
 
-- Customer Service
-- Sales
-- General Labour
-- ICT Experience
+Some of my completed certifications include:
 
-### 🛠 Skills
+- Microsoft Azure Essentials
+- Microsoft Azure Professional Certificate
+- CompTIA A+ Core 1
+- Figma for UX Design
+- Photoshop Essential Training
+- Illustrator Essential Training
+- Google AI Skills Programme
+
+---
+
+# 🧠 Skills
+
+### Programming
 
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - Python
 - Java
+- PHP
 - SQL
+
+### Frameworks & Libraries
+
+- React
+- Node.js
+
+### Databases
+
 - MySQL
-- Git & GitHub
-- Microsoft Azure
-- Responsive Web Design
+
+### Design
+
 - Figma
 - Canva
-- Data Analysis
 
-### 📜 Certifications
+### Tools
 
-- Microsoft Azure Essentials
-- Azure Essentials Professional Certificate
-- CompTIA A+
-- Figma for UX Design
-- UX Foundations
-- Photoshop Essential Training
-
-### 📂 Projects
-
-- Personal Portfolio Website
-- Student Management System
-- Data Analysis Project
-- Banking UI Design
-- Responsive Landing Pages
+- Git
+- GitHub
+- VS Code
+- Vercel
 
 ---
 
-## 🎯 Future Improvements
+# 📄 Resume
 
-- Dark/Light Mode Toggle
-- Blog Section
-- Downloadable CV
-- Project Filtering
-- Contact Form Backend
-- Project Screenshots
-- GitHub API Integration
-- Visitor Counter
+A downloadable version of my CV is available directly from the portfolio website.
 
 ---
 
-## 👨‍💻 Author
+# 📱 Responsive Design
 
-**Ave Oscar Jack**
+The website is fully optimized for:
 
-Software Developer | ICT Professional | Data Analyst | UI/UX Enthusiast
+- Desktop
+- Laptop
+- Tablet
+- Mobile devices
 
-📍 Cape Town, South Africa
+---
 
-📧 Email:
-jackave778@gmail.com
+# 📬 Contact
 
-💼 LinkedIn:
+Feel free to connect with me.
+
+### LinkedIn
+
 https://www.linkedin.com/in/ave-oscar-jack-532280408
 
-🐙 GitHub:
+### GitHub
+
 https://github.com/aveoscarJack
 
-🌐 Portfolio:
-https://aveoscarjackworkflo-ai-assist.lovable.app
+### Portfolio
+
+https://ave-oscar-jack-h8svm0l78-ave-oscar-jack.vercel.app/
 
 ---
 
-## 🤝 Let's Connect
+# 📂 Installation
 
-I'm always open to:
+Clone the repository
 
-- Graduate Opportunities
-- Internships
-- Software Development Roles
-- UI/UX Projects
-- Data Analysis Projects
-- Freelance Work
-- Open Source Collaboration
+```bash
+git clone https://github.com/yourusername/your-portfolio.git
+```
 
-Feel free to connect with me!
+Navigate into the project
+
+```bash
+cd your-portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Build for production
+
+```bash
+npm run build
+```
 
 ---
 
-## 📄 License
+# 🎯 Future Improvements
+
+- Blog section
+- Dark/Light mode toggle
+- Project filtering
+- Testimonials
+- Contact form backend
+- More AI projects
+- Animations and micro-interactions
+
+---
+
+# 🤝 Contributing
+
+Contributions, suggestions, and feedback are welcome.
+
+Feel free to fork the repository and submit a Pull Request.
+
+---
+
+# ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
+
+---
+
+# 📄 License
 
 This project is licensed under the MIT License.
 
-```
-MIT License
-
-Copyright (c) 2026 Ave Oscar Jack
-
-Permission is hereby granted, free of charge,
-to any person obtaining a copy of this software...
-```
-
 ---
 
-⭐ If you like this project, consider giving it a **Star** on GitHub!
+## 👋 Thank You
+
+Thank you for visiting my portfolio!
+
+If you're looking for a passionate developer who enjoys learning and building impactful solutions, I'd love to connect.
+
+**Made with ❤️ by Ave Oscar Jack**
